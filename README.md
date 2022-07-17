@@ -28,6 +28,19 @@ Soft UI Dashboard Tailwind is built with over 70 frontend individual elements, l
 
 <br />
 
+## ✨ [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200)
+
+Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let Notus React amaze you with its cool features and build tools and get your project to a whole new level.
+
+- 👉 [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200) - `product page`
+- 👉 [Notus React](https://demos.creative-tim.com/notus-react/#/?AFFILIATE=128200) - `LIVE demo` 
+
+Speed up your web development with a beautiful product made by Creative Tim . If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
+
+![Notus - Free Tailwind CSS and React UI Kit and Admin.](https://user-images.githubusercontent.com/51854817/179389487-142b6a6d-1678-4ee6-8db8-c0de504cd6cb.png)
+
+<br />
+
 ## ✨ [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react?AFFILIATE=128200)
 
 Material Tailwind Kit React is a free and open-source UI Kit based on two popular front-end technologies: Tailwind CSS & React. It was built to simplify the developer's work in the quest of creating intuitive interfaces. 
